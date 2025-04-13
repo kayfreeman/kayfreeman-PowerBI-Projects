@@ -15,7 +15,7 @@ In this collection are:
 
 Each subfolder contains:
 - `.pbix` files (Power BI Desktop projects)
-- Sample datasets or data connectors (where applicable)
+- Sample datasets or data connectors (where applicable file size >>100MB)
 - Project-specific documentation
 - Screenshots and insights summary
 
