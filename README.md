@@ -29,13 +29,13 @@ Feel free to explore the individual projects and reach out with any feedback or 
 
 | Project Title | Domain | Description | Status |
 |---------------|--------|-------------|--------|
-| [01. Sales Performance Dashboard](./01_Sales_Performance_Dashboard/) | Retail Analytics | Interactive sales analytics across region, product, and time with dynamic KPIs | ✅ Completed |
+| [01. Sales Performance Dashboard](./01_Sales_Performance_Dashboard/) | Retail Analytics | Interactive sales analytics across region, product, and time with dynamic KPIs |  🛠 In Progress |
 | [02. Financial Reporting Model](./02_Financial_Reporting_Model/) | Corporate Finance | Multi-year P&L, balance sheet, and cash flow analysis using DAX calculations | 🛠 In Progress |
-| [03. HR Workforce Analytics](./03_HR_Workforce_Analytics/) | Human Resources | Staff attrition, demographics, and diversity reporting with slicer-based filtering | ✅ Completed |
+| [03. HR Workforce Analytics](./03_HR_Workforce_Analytics/) | Human Resources | Staff attrition, demographics, and diversity reporting with slicer-based filtering |  🛠 In Progress |
 | [04. Government Program Monitoring](./04_Gov_Program_Monitoring/) | Public Sector | Tracks project KPIs and disbursements across multiple state initiatives | 🛠 In Progress |
-| [05. E-commerce Customer Insights](./05_Ecommerce_Customer_Insights/) | Digital Commerce | Analysis of customer lifecycle, repeat rate, and cohort behavior | ✅ Completed |
+| [05. E-commerce Customer Insights](./05_Ecommerce_Customer_Insights/) | Digital Commerce | Analysis of customer lifecycle, repeat rate, and cohort behavior |  🛠 In Progress |
 | [06. Airline Performance Dashboard](https://github.com/kayfreeman/kayfreeman-PowerBI-Projects/blob/main/Aviation%20Analytics/Flight%20Status%20Dashboard.pbix) | Airline Travel Analytics | Interactive air travel analytics across region, product, and time with dynamic KPIs | ✅ Completed |
-
+| [07. Transport Service Operation Analytics - Melbourne, Australia](URL) | Transport service operations in Victoria, Melbourne, Australia | Analysis of transport operation in Victoria, Melbourne using PowerBI |  🛠 In Progress |
 
 ---
 
