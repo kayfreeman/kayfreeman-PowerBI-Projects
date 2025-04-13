@@ -34,7 +34,7 @@ Feel free to explore the individual projects and reach out with any feedback or 
 | [03. HR Workforce Analytics](./03_HR_Workforce_Analytics/) | Human Resources | Staff attrition, demographics, and diversity reporting with slicer-based filtering | ✅ Completed |
 | [04. Government Program Monitoring](./04_Gov_Program_Monitoring/) | Public Sector | Tracks project KPIs and disbursements across multiple state initiatives | 🛠 In Progress |
 | [05. E-commerce Customer Insights](./05_Ecommerce_Customer_Insights/) | Digital Commerce | Analysis of customer lifecycle, repeat rate, and cohort behavior | ✅ Completed |
-| [06. Airline Performance Dashboard](./06_Airline_Performance_Dashboard/) | Airline travel Analytics | Interactive air travel analytics across region, product, and time with dynamic KPIs | ✅ Completed |
+| [06. Airline Performance Dashboard]([./06_Airline_Performance_Dashboard](https://github.com/kayfreeman/kayfreeman-PowerBI-Projects/blob/main/Aviation%20Analytics/Flight%20Status%20Dashboard.pbix)/) | Airline travel Analytics | Interactive air travel analytics across region, product, and time with dynamic KPIs | ✅ Completed |
 
 ---
 
